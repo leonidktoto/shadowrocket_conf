@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,cdninstagram.com
@@ -53,11 +54,11 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google.com
-DOMAIN-KEYWORD,ios.chat.openai.com,PROXY
-DOMAIN-KEYWORD,api.revenuecat.com,PROXY
-DOMAIN-KEYWORD,browser-intake-datadoghq.com,PROXY
-DOMAIN-KEYWORD,files.oaiusercontent.com,PROXY
-DOMAIN-KEYWORD,api.statsig.com,PROXY
+DOMAIN-KEYWORD,ios.chat.openai.com
+DOMAIN-KEYWORD,api.revenuecat.com
+DOMAIN-KEYWORD,browser-intake-datadoghq.com
+DOMAIN-KEYWORD,files.oaiusercontent.com
+DOMAIN-KEYWORD,api.statsig.com
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,youtube
