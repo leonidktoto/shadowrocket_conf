@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-KEYWORD,ios.chat.openai.com,PROXY
 DOMAIN-KEYWORD,api.revenuecat.com,PROXY
 DOMAIN-KEYWORD,browser-intake-datadoghq.com,PROXY
@@ -59,3 +60,4 @@ DOMAIN-KEYWORD,api.statsig.com,PROXY
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,googlevideo
