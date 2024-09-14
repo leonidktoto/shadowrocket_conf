@@ -54,6 +54,8 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-KEYWORD,ios.chat.openai.com
 DOMAIN-KEYWORD,api.revenuecat.com
 DOMAIN-KEYWORD,browser-intake-datadoghq.com
